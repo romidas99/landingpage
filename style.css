@@ -1,0 +1,23 @@
+.logo {
+    height: 150px;
+    width: 100px;
+}
+
+.header {
+    background-color: #1f2937;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+.nature {
+    height: 300px;
+    width: 300px;
+}
+
+.clover {
+    height: 20px;
+    width: 20px;
+}
